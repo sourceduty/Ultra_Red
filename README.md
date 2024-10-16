@@ -18,6 +18,16 @@ Furthermore, this GPT clarifies vague user requests by breaking them down into a
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Tesla Design](https://github.com/sourceduty/Tesla_Design)
+<br>
+[EV](https://github.com/sourceduty/EV)
+<br>
+[EV Simulator](https://github.com/sourceduty/EV_Simulator)
+<br>
+[Motorsport Manager](https://github.com/sourceduty/Motorsport_Manager)
+<br>
+[EV Toolbox](https://github.com/sourceduty/EV_Toolbox)
+<br>
+[EV Charging](https://github.com/sourceduty/EV_Charging)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
