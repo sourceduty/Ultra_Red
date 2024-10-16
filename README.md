@@ -18,6 +18,12 @@ Ultra Red is a striking and iconic shade of red that has become synonymous with 
 #
 ![Driving Glovers](https://github.com/user-attachments/assets/d411c3e3-b463-4d72-ad79-899619af426d)
 #
+![Tesla Charger Backpack](https://github.com/user-attachments/assets/639d8702-3911-4598-a8b8-f3c234403428)
+
+#
+> Alex "*Tesla things.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
