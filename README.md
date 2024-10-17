@@ -41,6 +41,8 @@ Ultra Red is a striking and iconic shade of red that has become synonymous with 
 [EV Charging](https://github.com/sourceduty/EV_Charging)
 <br>
 [Vehicle Accessory](https://github.com/sourceduty/Vehicle_Accessory)
+<br>
+[Rebrand](https://github.com/sourceduty/Rebrand)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
