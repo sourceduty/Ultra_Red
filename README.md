@@ -1,4 +1,4 @@
-![Tesla Easter Egg](https://github.com/user-attachments/assets/957ca005-9173-4dec-b823-c3b27a6bc495)
+![Slate](https://github.com/user-attachments/assets/5b4d6d80-4e47-449c-98be-1c727e21e792)
 
 > Design and visualize Tesla Motors product concepts using DALL-E 3.
 
@@ -19,6 +19,8 @@ Ultra Red is a striking and iconic shade of red that has become synonymous with 
 ![Driving Glovers](https://github.com/user-attachments/assets/d411c3e3-b463-4d72-ad79-899619af426d)
 #
 ![Tesla Charger Backpack](https://github.com/user-attachments/assets/639d8702-3911-4598-a8b8-f3c234403428)
+#
+![Tesla Easter Egg](https://github.com/user-attachments/assets/957ca005-9173-4dec-b823-c3b27a6bc495)
 
 #
 > Alex "*Tesla things.*"
