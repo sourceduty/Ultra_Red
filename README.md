@@ -45,6 +45,8 @@ Ultra Red is a striking and iconic shade of red that has become synonymous with 
 [Vehicle Accessory](https://github.com/sourceduty/Vehicle_Accessory)
 <br>
 [Rebrand](https://github.com/sourceduty/Rebrand)
+<br>
+[EV Upgrade](https://github.com/sourceduty/EV_Upgrade)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
